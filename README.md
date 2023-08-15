@@ -36,6 +36,7 @@ There is no modelling that was carried out during the process.
 
 ## Visualization 
 Both chart and line graph were used to visualise the analysis and KPI metrics were used. 
+https://docs.google.com/spreadsheets/d/1O0uTPdO_EdEpMDrEBIKpld0JYhnRiBD8/edit?usp=sharing&ouid=110408409679545151386&rtpof=true&sd=true
 
 ## Analysis: 
 The total number of respondents that were analyzed was 37542 from 78 car companies which were done in Excel using a pivot table.  The total household income is $5, 527, 962,182 while the claim amount  is $1,878,170,476.20. The result indicated that the single used more cars, Ford is the company that paid highest claims while Ford is the highest car used.  
@@ -46,7 +47,7 @@ It could be inferred that the highest claims were paid by Ford Motors ($165,583,
 ## Recommendation
 From the study, the following were recommended: 
 1. The company should make more cars for commercial purposes
-2. To increase the revenue from car manufacture, organizations should focus more on single and married as their high-priority market in order to insure their cars  
+2. To increase the revenue from car manufacturers, organizations should focus more on single and married as their high-priority market in order to insure their cars  
 3. Other brand should also make their cars to be available and affordable. 
 
 
