@@ -1,5 +1,6 @@
 # Car Insurance Analysis
-![](18-million-americans-cant-afford-auto-insurance-mainly-because-of-where-they-live.jpg)
+
+![](frontpage.jpg)
 
 ## Introduction 
 Insurance for cars, trucks, motorcycles, and other road vehicles is primarily used to provide financial protection against physical damage or bodily injury resulting from traffic collisions and against liability that could also arise from incidents in a vehicle. Analysis was conducted to drive insight for sound policy making and also to make good economic decisions in improving its society. 
